@@ -1,11 +1,11 @@
 # The scorch BFR
 Note: If there's "[L]" next to contract version, that means that its currently in use and its latest.
 
-#
+
 
 [BFR discord server](https://discord.gg/Cw5XkfZeyA)
 
-#
+
 
 <details>
   <summary>Versions</summary>
