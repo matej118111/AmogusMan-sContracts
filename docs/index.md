@@ -1,5 +1,9 @@
 # The scorch BFR
-Note: If there's "[L]" next to contract version, that means that its currently in use and its latest.
+[L] - latest
+<br>
+[E] - Experimental
+<br>
+[B] - Bet (Won't change offten, and also you need to pay 100 scrap every month, at the end the winner of the war, will receive all the scrap collected from it.)
 
 [BFR discord server](https://discord.gg/Cw5XkfZeyA)
 
