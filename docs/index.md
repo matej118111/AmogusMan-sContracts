@@ -8,7 +8,7 @@ Note: If there's "[I.U|L|]" next to contract version, that means that its curren
   
 </details>
 
-   ## 
+#
    
 [BFR discord server](https://discord.gg/Cw5XkfZeyA)
 
