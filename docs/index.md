@@ -1,3 +1,4 @@
+<body bgcolor="black">
 # The scorch BFR
 Note: If there's "[L]" next to contract version, that means that its currently in use and its latest.
 
@@ -8,3 +9,4 @@ Note: If there's "[L]" next to contract version, that means that its currently i
  <a href="https://raw.githubusercontent.com/matej118111/AmogusMan-sContracts/main/BRF-Contracts-PDF/V0.1.pdf">V.0.1 [L]<a>
 
 <!-- https://discord.gg/Cw5XkfZeyA -->
+</body>
