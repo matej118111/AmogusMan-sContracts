@@ -5,7 +5,7 @@
 <br>
 [B] - Bet (Won't change offten, and also you need to pay 100 scrap every month, at the end the winner of the war, will receive all the scrap collected from it.)
 
-[BFR discord server](https://discord.gg/Cw5XkfZeyA)
+[BFR discord server](https://discord.gg/Cw5XkfZeyA "Better faction relations")
 
 To suggest changes fork this [project](https://github.com/matej118111/AmogusMan-sContracts) and create pull request.
 
