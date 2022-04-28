@@ -2,8 +2,6 @@
 [L] - latest
 <br>
 [E] - Experimental
-<br>
-[B] - Bet (Won't change offten, and also you need to pay 100 scrap every month, at the end the winner of the war, will receive all the scrap collected from it.)
 
 [BFR discord server](https://discord.gg/Cw5XkfZeyA "Better faction relations")
 
@@ -13,7 +11,9 @@ To find .md file of specific version of contract check [BFR contracts folder.](h
 
 <details>
   <summary>Versions</summary>
-  <a href="https://raw.githubusercontent.com/matej118111/AmogusMan-sContracts/main/BRF-Contracts-PDF/V0.4.pdf">V.0.4 [L]</a>
+  <a href="https://raw.githubusercontent.com/matej118111/AmogusMan-sContracts/main/BRF-Contracts-PDF/V0.5.pdf">V.0.5 [L]</a>
+  <br>
+  <a href="https://raw.githubusercontent.com/matej118111/AmogusMan-sContracts/main/BRF-Contracts-PDF/V0.4.pdf">V.0.4</a>
   <br>
   <a href="https://raw.githubusercontent.com/matej118111/AmogusMan-sContracts/main/BRF-Contracts-PDF/V0.3.pdf">V.0.3</a>
   <br>
