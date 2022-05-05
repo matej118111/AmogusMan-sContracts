@@ -27,7 +27,8 @@ To find .md file of specific version of contract check [BFR contracts folder.](h
     <summary>Examples (Mentioned in contract V0.6 and above)</summary>
     
 [Unwanted wars #1: Rebels United allying with republic so republic can fight against Thieves guild.](https://raw.githubusercontent.com/matej118111/AmogusMan-sContracts/main/BRF-Contracts-PDF/_resources/3496fc1d7a848552ed0b8cd3919161e3.png)
-    <br>
+    
+    
 [Unwanted wars #2: Rebels united allying with US Army Remnants in order to fight in more wars.](https://raw.githubusercontent.com/matej118111/AmogusMan-sContracts/main/BRF-Contracts-PDF/_resources/a1621ba20ee94ba71ccf8b98de12aeac.png)
     
 <br>
