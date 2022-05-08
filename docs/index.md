@@ -4,6 +4,8 @@
 [E] - Experimental
 
 [BFR discord server](https://discord.gg/Cw5XkfZeyA "Better faction relations")
+<br>
+[Faction relations](https://gist.github.com/matej118111/bf1b8a73a223b6009f24087aa3de90ee) (Using BFR contract)
 
 To suggest changes fork this [project](https://github.com/matej118111/AmogusMan-sContracts) and create pull request.
 
