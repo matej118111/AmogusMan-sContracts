@@ -13,7 +13,9 @@ To find .md file of specific version of contract check [BFR contracts folder.](h
 
 <details>
   <summary>Versions</summary>
-  <a href="https://raw.githubusercontent.com/matej118111/AmogusMan-sContracts/main/BRF-Contracts-PDF/V0.6.pdf">V.0.6 [L]</a>
+  <a href="https://raw.githubusercontent.com/matej118111/AmogusMan-sContracts/main/BRF-Contracts-PDF/V0.7.pdf">V.0.7 [L]</a>
+  <br>
+  <a href="https://raw.githubusercontent.com/matej118111/AmogusMan-sContracts/main/BRF-Contracts-PDF/V0.6.pdf">V.0.6</a>
   <br>
   <a href="https://raw.githubusercontent.com/matej118111/AmogusMan-sContracts/main/BRF-Contracts-PDF/V0.5.pdf">V.0.5</a>
   <br>
